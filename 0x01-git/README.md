@@ -1,1 +1,2 @@
-Readme.md file
+# alx-pre_course
+This is my  time.
